@@ -34,7 +34,7 @@ body {
 .rtopleft {
     width: 50%;
     height: 100%;
-    background-image: url('/images/left.webp');
+    background-image: url('images/left.webp');
     background-size: cover;
     background-position: center;
 
@@ -43,7 +43,7 @@ body {
 .rtopright {
     width: 50%;
     height: 100%;
-    background-image: url('/images/right.webp');
+    background-image: url('images/right.webp');
     background-size: cover;
     background-position: center;
 
@@ -52,7 +52,7 @@ body {
 .rbottom {
     width: 100%;
     height: 50%;
-    background-image: url('/images/bottom.webp');
+    background-image: url('images/bottom.webp');
     background-size: cover;
     background-position: center;
 }
